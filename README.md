@@ -105,7 +105,7 @@ Many notebooks use scikit-learn's built-in datasets (iris, diabetes, breast canc
 |---|---|
 | Titanic (`train.csv`, `titanic_toy.csv`) | [Kaggle — Titanic](https://www.kaggle.com/c/titanic) |
 | Digit Recognizer (`digit-recognizer.zip`) | [Kaggle — Digit Recognizer](https://www.kaggle.com/c/digit-recognizer) |
-| `placement.csv`, `Social_Network_Ads.csv`, `cars.csv`, `wine_data.csv`, `concrete_data.csv`, `covid_toy.csv`, `customer.csv`, `data_science_job.csv`, `50_Startups.csv`, `student_clustering.csv`, `ushape.csv`, `weight-height.csv`, `heart.csv`, `orders.csv`, `messages.csv` and the other teaching CSVs | [CampusX — 100 Days of Machine Learning](https://github.com/campusx-official/100-days-of-machine-learning) (one folder per topic) |
+| `placement.csv`, `Social_Network_Ads.csv`, `cars.csv`, `wine_data.csv`, `concrete_data.csv`, `covid_toy.csv`, `customer.csv`, `data_science_job.csv`, `50_Startups.csv`, `student_clustering.csv`, `ushape.csv`, `weight-height.csv`, `heart.csv`, `orders.csv`, `messages.csv` and the other teaching CSVs | [Kaggle Datasets](https://www.kaggle.com/datasets) — search by file name |
 | Built-in: iris, diabetes, breast cancer, California housing | Loaded automatically from `sklearn.datasets` |
 
 ---
@@ -113,15 +113,8 @@ Many notebooks use scikit-learn's built-in datasets (iris, diabetes, breast canc
 ## 📖 Further reading
 
 - PCA on MNIST — [Kaggle notebook](https://www.kaggle.com/code/nitsin/pca-demo-1/notebook)
-- Naive Bayes sentiment analysis on IMDB — [Kaggle notebook](https://www.kaggle.com/code/campusx/sentiment-analysis-using-naive-bayes)
 - Feature hashing for high-cardinality categories — [article](https://datasciencestunt.com/dealing-with-categorical-features-with-high-cardinality-feature-hashing/)
 - Gradient boosting explained — [explained.ai](https://explained.ai/gradient-boosting/index.html)
-
----
-
-## 🙏 Acknowledgements
-
-Several lessons follow the structure of CampusX's excellent *100 Days of Machine Learning* series, extended with my own notes, explanations and worked examples from teaching.
 
 ---
 
