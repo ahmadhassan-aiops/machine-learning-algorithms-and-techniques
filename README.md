@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🤖 Machine Learning — Algorithms & Techniques
+# 🤖 Machine Learning: Algorithms & Techniques
 
-**From first principles to production-ready workflows — 100 Jupyter notebooks covering 18 ML algorithms (many coded from scratch), evaluation, regularization and the full feature-engineering toolkit.**
+**From first principles to production-ready workflows: 100 Jupyter notebooks covering 18 ML algorithms (many coded from scratch), evaluation, regularization and the full feature-engineering toolkit.**
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikitlearn&logoColor=white)
@@ -17,18 +17,18 @@
 
 ## 🎯 What makes this course different
 
-- 🧠 **Intuition first** — every algorithm starts with the geometric or mathematical idea behind it.
-- 🛠️ **Built from scratch** — linear & logistic regression, gradient descent, KNN, K-means, AdaBoost and more are implemented in NumPy, then compared with scikit-learn.
-- 🎛️ **Tuned like the real world** — hyperparameters, GridSearchCV / RandomizedSearchCV, cross-validation and the bias–variance trade-off.
-- 🧹 **Data-ready** — a complete feature-engineering module: missing values, scaling, encoding, transformation, outliers, pipelines and feature selection.
+- 🧠 **Intuition first**: every algorithm starts with the geometric or mathematical idea behind it.
+- 🛠️ **Built from scratch**: linear & logistic regression, gradient descent, KNN, K-means, AdaBoost and more are implemented in NumPy, then compared with scikit-learn.
+- 🎛️ **Tuned like the real world**: hyperparameters, GridSearchCV / RandomizedSearchCV, cross-validation and the bias–variance trade-off.
+- 🧹 **Data-ready**: a complete feature-engineering module covering missing values, scaling, encoding, transformation, outliers, pipelines and feature selection.
 
 ---
 
-## 📚 Module 1 — Introduction to Machine Learning
+## 📚 Module 1: Introduction to Machine Learning
 
 [MACHINE LEARNING (ML-Life cycle -theory part # 2)](1.%20Machine%20Learning%20Introduction/MACHINE%20LEARNING%20%28ML-Life%20cycle%20-theory%20part%20%23%202%29.ipynb) · [MACHINE LEARNING (theory part # 1)](1.%20Machine%20Learning%20Introduction/MACHINE%20LEARNING%20%28theory%20part%20%23%201%29.ipynb)
 
-## 📚 Module 2 — ML basics & algorithms
+## 📚 Module 2: ML basics & algorithms
 
 ### Foundations
 
@@ -68,7 +68,7 @@
 
 📋 Cheat sheet: [ALL ALGORITHMS OF   [REGRESSION AND CLASSIFICATION]   PROBLEMS](2.%20ML%20Basics%20and%20Algorithms/2.%20ML%20Algorithms/ALL%20ALGORITHMS%20OF%20%20%20%5BREGRESSION%20AND%20CLASSIFICATION%5D%20%20%20PROBLEMS.ipynb)
 
-## 📚 Module 3 — ML techniques (feature engineering)
+## 📚 Module 3: ML techniques (feature engineering)
 
 Start here: [Feature engineering overview](3.%20ML%20Techniques%20%28Feature%20Engineering%29/1.%20Feature%20Engineering%20overview.ipynb)
 
@@ -95,7 +95,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn xgboost mlxtend dtreevi
 jupyter notebook
 ```
 
-Many notebooks use scikit-learn's built-in datasets (iris, diabetes, breast cancer, California housing) and run immediately. The others read a CSV from **the same folder as the notebook** — download it and place it next to the notebook.
+Many notebooks use scikit-learn's built-in datasets (iris, diabetes, breast cancer, California housing) and run immediately. The others read a CSV from **the same folder as the notebook**: download it and place it next to the notebook.
 
 ---
 
@@ -103,18 +103,18 @@ Many notebooks use scikit-learn's built-in datasets (iris, diabetes, breast canc
 
 | Dataset | Where to get it |
 |---|---|
-| Titanic (`train.csv`, `titanic_toy.csv`) | [Kaggle — Titanic](https://www.kaggle.com/c/titanic) |
-| Digit Recognizer (`digit-recognizer.zip`) | [Kaggle — Digit Recognizer](https://www.kaggle.com/c/digit-recognizer) |
-| `placement.csv`, `Social_Network_Ads.csv`, `cars.csv`, `wine_data.csv`, `concrete_data.csv`, `covid_toy.csv`, `customer.csv`, `data_science_job.csv`, `50_Startups.csv`, `student_clustering.csv`, `ushape.csv`, `weight-height.csv`, `heart.csv`, `orders.csv`, `messages.csv` and the other teaching CSVs | [Kaggle Datasets](https://www.kaggle.com/datasets) — search by file name |
+| Titanic (`train.csv`, `titanic_toy.csv`) | [Kaggle: Titanic](https://www.kaggle.com/c/titanic) |
+| Digit Recognizer (`digit-recognizer.zip`) | [Kaggle: Digit Recognizer](https://www.kaggle.com/c/digit-recognizer) |
+| `placement.csv`, `Social_Network_Ads.csv`, `cars.csv`, `wine_data.csv`, `concrete_data.csv`, `covid_toy.csv`, `customer.csv`, `data_science_job.csv`, `50_Startups.csv`, `student_clustering.csv`, `ushape.csv`, `weight-height.csv`, `heart.csv`, `orders.csv`, `messages.csv` and the other teaching CSVs | [Kaggle Datasets](https://www.kaggle.com/datasets): search by file name |
 | Built-in: iris, diabetes, breast cancer, California housing | Loaded automatically from `sklearn.datasets` |
 
 ---
 
 ## 📖 Further reading
 
-- PCA on MNIST — [Kaggle notebook](https://www.kaggle.com/code/nitsin/pca-demo-1/notebook)
-- Feature hashing for high-cardinality categories — [article](https://datasciencestunt.com/dealing-with-categorical-features-with-high-cardinality-feature-hashing/)
-- Gradient boosting explained — [explained.ai](https://explained.ai/gradient-boosting/index.html)
+- PCA on MNIST: [Kaggle notebook](https://www.kaggle.com/code/nitsin/pca-demo-1/notebook)
+- Feature hashing for high-cardinality categories: [article](https://datasciencestunt.com/dealing-with-categorical-features-with-high-cardinality-feature-hashing/)
+- Gradient boosting explained: [explained.ai](https://explained.ai/gradient-boosting/index.html)
 
 ---
 
@@ -134,11 +134,11 @@ Many notebooks use scikit-learn's built-in datasets (iris, diabetes, breast canc
 
 ## 👨‍🏫 About the author
 
-**Ahmad Hassan** — AI/ML Engineer & Instructor with 5+ years of experience
+**Ahmad Hassan** | AI/ML Engineer & Instructor with 5+ years of experience
 1,500+ hours of live teaching, 100+ students mentored from medicine, business and engineering into data roles.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ahmadhassan--aiops.github.io-0EA5A4)](https://ahmadhassan-aiops.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad%20Hassan-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-hassan-79a44b1a3)
 [![GitHub](https://img.shields.io/badge/GitHub-ahmadhassan--aiops-181717?logo=github&logoColor=white)](https://github.com/ahmadhassan-aiops)
 
-⭐ If these notebooks help you learn, please star the repo — it helps other students find it!
+⭐ If these notebooks help you learn, please star the repo. It helps other students find it!
